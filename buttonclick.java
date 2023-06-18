@@ -8,7 +8,7 @@ public static void main (String[] args) {
     // create instance of button with label  
     Button b = new Button("Click Here");   
   
-    // set the position for the button in frame   
+    
     b.setBounds(50,100,80,30);    
   
     // add button to the frame  
